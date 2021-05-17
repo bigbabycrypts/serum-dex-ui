@@ -438,5 +438,17 @@
     "redeembable": false,
     "keywords": ["BitPortrait"],
     "type": "IMAGE"
-  }
-]
+  },
+  {
+  "img": "https://gateway.pinata.cloud/ipfs/QmegjedUB7GsvwV1NF2gKANxMuGVtwCo4UTJHrZ9oLDi79",
+  "imgSmall": "https://gateway.pinata.cloud/ipfs/QmcKTbUMy2WKNHzQ2Vzso1kC7fmuDwUhjhL4ertYqpEJfM",
+  "name": "Schiff",
+  "supply": 1,
+  "mintAddress": "F1G2jthxFnG4bVqKbHAEuS89krXuLfe4NGw1TKb7yzN9",
+  "marketAddress": "FguN9nLLgeSnzufBpUd9uQCzWRtdS8kwA8LtWjq2thvf",
+  "redeembable": false,
+  "keywords": ["peter", "schiff", "btc", "gold", "rare", "elon", "doge", "stonks", "gme", "vinklevoss", "COPE", "SOL", "ftx", "ftt"],
+    "Schiff"
+  ],
+  "type": "IMAGE"
+}
